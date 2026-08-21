@@ -109,8 +109,8 @@ Review and Improve
 | Difficulty | Status         |
 | ---------- | -------------- |
 | 🟢 Easy    | 15 |
-| 🟡 Medium  | 34 |
-| 🔴 Hard    | 10 |
+| 🟡 Medium  | 39 |
+| 🔴 Hard    | 11 |
 
 > This repository is continuously updated as I solve more LeetCode problems.
 
